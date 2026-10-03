@@ -1,5 +1,5 @@
 
-# ☀️ Arduino Solar Tracker
+#  Arduino Solar Tracker
 
 
 
